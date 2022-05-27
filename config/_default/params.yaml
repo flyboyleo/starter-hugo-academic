@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: '深圳技术大学Wang lab实验室（计算机生物医学）'#关于网站
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
