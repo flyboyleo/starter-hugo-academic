@@ -28,13 +28,13 @@ image:
   placement: 2
   preview_only: false
 
-authors:
+主要成员:
   - 梁世博
   - 薛春海
   - 吴泽诚
   - 梁紫泉
 
-tags:
+头衔:
   - 研究助理
 #要不要删？
 categories:
@@ -44,7 +44,7 @@ categories:
 
 ## Overview
 
-Overview->内容有待补充！！！
+Overview(概览)->内容有待补充！！！
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
