@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title:普通学员
+subtitle: '大二...'
 
 content:
   # Page type to display. E.g. project.
@@ -25,12 +25,11 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: 王旭(吉大)，谭子豪，何睿
+      tag: 实验室学员
+    - name: 鲁泽艺，庞泽敏，成芳仪，温小雨
+      tag: 实验室学员
+   
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
