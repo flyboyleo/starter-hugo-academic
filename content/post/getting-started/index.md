@@ -36,10 +36,7 @@ image:
 
 头衔:
   - 研究助理
-#要不要删？
-categories:
-  - Demo
-  - 教程
+
 ---
 
 ## Overview
