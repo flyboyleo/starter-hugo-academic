@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title:研究方向
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
   - description: 90%
     icon: r-project
     icon_pack: fab
-    name: R
+    name: 计算生物学
   - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name:机器学习
   - description: 10%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: AI辅助制药
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
