@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: 联系方式
 subtitle:
 
 content:
@@ -25,23 +25,17 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  邮箱: wanxin@sztu.edu.cn
+  电话: 18320944327
+  地址:
+    街道: 兰田路3002号
+    城市: 广东省深圳市
+    区域: 坪山区
+    邮政编码: '518118'
+  工作时间:
+    - '工作日 10:00 to 17:20'
+    - '周末 自由安排'
+  
   contact_links:
     - icon: twitter
       icon_pack: fab
